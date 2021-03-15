@@ -27,5 +27,7 @@ public class StepDefinitions extends Base {
 		loginPage.getLogInBtn().click();
 		
 	}
+	
+	
 
 }
